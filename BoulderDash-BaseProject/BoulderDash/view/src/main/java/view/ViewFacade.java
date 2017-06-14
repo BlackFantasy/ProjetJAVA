@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  */
 public class ViewFacade implements IView {
 
-    // ca marche pour moi et pas pour peter
+    // ca marche pour moi et pas pour peteres
     /**
      * Instantiates a new view facade.
      */
